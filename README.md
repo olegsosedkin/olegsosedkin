@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olegsosedkin
-- 👀 I’m interested in Unity, Unreal Engine, c++, c# and so on.
-- 🌱 I’m currently learning Unity.
-- 💞️ I’m looking to collaborate on Unity projects.
+- 👀 I’m interested in Unreal Engine, c++, python and so on.
+- 🌱 I’m currently learning Unreal Engine.
+- 💞️ I’m looking to collaborate on Unreal Engine projects.
 - 📫 olegsosedkin@gmail.com
 
 <!---
